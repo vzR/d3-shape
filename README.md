@@ -1045,7 +1045,7 @@ The resulting array has one element per *series*. Each series has one point per 
 ]
 ```
 
-Each series in then typically passed to an [area generator](#areas) to render an area chart, or used to construct rectangles for a bar chart.
+Each series is then typically passed to an [area generator](#areas) to render an area chart, or used to construct rectangles for a bar chart.
 
 <a name="stack_keys" href="#stack_keys">#</a> <i>stack</i>.<b>keys</b>([<i>keys</i>]) [<>](https://github.com/d3/d3-shape/blob/master/src/stack.js#L40 "Source")
 
